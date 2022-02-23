@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-6-car-rental-management/static/css/main.7e8ac97a.css",
+    "main.js": "/sprint-6-car-rental-management/static/js/main.7da62db2.js",
+    "static/js/787.c7705932.chunk.js": "/sprint-6-car-rental-management/static/js/787.c7705932.chunk.js",
+    "index.html": "/sprint-6-car-rental-management/index.html",
+    "main.7e8ac97a.css.map": "/sprint-6-car-rental-management/static/css/main.7e8ac97a.css.map",
+    "main.7da62db2.js.map": "/sprint-6-car-rental-management/static/js/main.7da62db2.js.map",
+    "787.c7705932.chunk.js.map": "/sprint-6-car-rental-management/static/js/787.c7705932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e8ac97a.css",
+    "static/js/main.7da62db2.js"
+  ]
+}
